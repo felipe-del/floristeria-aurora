@@ -79,7 +79,7 @@ Arrastre la carpeta `.output/public` a https://app.netlify.com/drop (defina las 
 
 ## 4. Datos del estudiante
 
-Complete aquí antes de entregar: Nombre: ____________  Carné/Cédula: ____________  Tema: 7. Tienda de flores (Floristería)
+Nombre: Isaac Felipe Brenes Calderón Cédula: 1-1904-0860  Tema: 7. Tienda de flores (Floristería)
 
 ## Regenerar el catálogo (opcional)
 
