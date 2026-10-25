@@ -2,6 +2,8 @@
 
 Tienda en línea de **flores (tema 7: Floristería)** hecha con **Nuxt 3**, con carrito de compras **Snipcart** y comentarios **Utterances**.
 
+APP: https://floristeria-aurora.netlify.app/
+
 ## Requisitos del enunciado y dónde se cumplen
 
 | Requisito | Implementación |
