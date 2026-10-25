@@ -12,8 +12,7 @@ function cargar() {
   s.async = true
   s.crossOrigin = 'anonymous'
   s.setAttribute('repo', utterancesRepo)
-  s.setAttribute('issue-term', 'pathname') // un hilo por artículo
-  s.setAttribute('label', 'comentarios')
+  s.setAttribute('issue-term', 'pathname')
   s.setAttribute('theme', 'github-light')
   contenedor.value.appendChild(s)
 }
@@ -26,10 +25,9 @@ watch(() => route.path, () => nextTick(cargar))
   <section class="comentarios" aria-labelledby="titulo-comentarios">
     <h2 id="titulo-comentarios">Comentarios</h2>
     <p v-if="!utterancesRepo" class="aviso">
-      Configure <code>NUXT_PUBLIC_UTTERANCES_REPO</code> para habilitar los comentarios (ver README).
+      Falta configurar <code>NUXT_PUBLIC_UTTERANCES_REPO</code> (ver README).
     </p>
-    <ClientOnly>
-      <div ref="contenedor" />
-    </ClientOnly>
+    <!-- Contenedor vacío: el script se inserta solo en el navegador -->
+    <div ref="contenedor" />
   </section>
 </template>
