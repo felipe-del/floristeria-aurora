@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "ramos",
+    "nombre": "Ramos",
+    "descripcion": "Ramos de mano listos para regalar, armados al día con flores de temporada.",
+    "cuidados": "Cuidados: cortar 2 cm de los tallos en diagonal, usar agua fresca y cambiarla cada dos días.",
+    "imagen": "/img/ramo-rosas-rojas-clasico.svg"
+  },
+  {
+    "slug": "arreglos",
+    "nombre": "Arreglos florales",
+    "descripcion": "Cajas, canastas y jarrones con flores arregladas para dejar sobre la mesa.",
+    "cuidados": "Cuidados: mantener la espuma o el agua húmeda y evitar el sol directo.",
+    "imagen": "/img/caja-sombrerera-de-rosas.svg"
+  },
+  {
+    "slug": "plantas-de-interior",
+    "nombre": "Plantas de interior",
+    "descripcion": "Plantas verdes y suculentas que viven bien dentro de casa u oficina.",
+    "cuidados": "Cuidados: luz indirecta y riego solo cuando el sustrato esté seco al tacto.",
+    "imagen": "/img/monstera-deliciosa.svg"
+  },
+  {
+    "slug": "orquideas",
+    "nombre": "Orquídeas",
+    "descripcion": "Orquídeas en maceta con varas florecidas, de larga duración.",
+    "cuidados": "Cuidados: luz brillante sin sol directo y riego por inmersión una vez por semana.",
+    "imagen": "/img/orquidea-phalaenopsis-blanca.svg"
+  },
+  {
+    "slug": "bodas-y-eventos",
+    "nombre": "Bodas y eventos",
+    "descripcion": "Bouquets, accesorios y decoración floral para ceremonias y celebraciones.",
+    "cuidados": "Cuidados: conservar en lugar fresco y rociar con agua hasta el momento del evento.",
+    "imagen": "/img/bouquet-de-novia-clasico.svg"
+  },
+  {
+    "slug": "accesorios",
+    "nombre": "Accesorios",
+    "descripcion": "Jarrones, herramientas y productos para cuidar tus flores en casa.",
+    "cuidados": "Uso: guardar en lugar seco y limpiar después de cada uso.",
+    "imagen": "/img/jarron-de-vidrio-clasico.svg"
+  }
+]

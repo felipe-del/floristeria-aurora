@@ -1,0 +1,686 @@
+[
+  {
+    "id": "ramo-rosas-rojas-clasico",
+    "nombre": "Ramo Rosas Rojas Clásico",
+    "descripcion": "Dos docenas de rosas rojas de tallo largo, envueltas en papel kraft y listón de seda.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-rosas-rojas-clasico.svg",
+    "etiquetas": [
+      "aniversario",
+      "ramos",
+      "rojo"
+    ],
+    "destacado": true,
+    "precio": 45,
+    "tamano": "Grande",
+    "color": "Rojo",
+    "ocasion": "Aniversario",
+    "contenido": "24 rosas rojas"
+  },
+  {
+    "id": "ramo-primavera-pastel",
+    "nombre": "Ramo Primavera Pastel",
+    "descripcion": "Tulipanes, ranúnculos y eucalipto en tonos suaves, ideal para un regalo delicado.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-primavera-pastel.svg",
+    "etiquetas": [
+      "cumpleanos",
+      "ramos",
+      "rosado pastel"
+    ],
+    "destacado": false,
+    "precio": 32,
+    "tamano": "Mediano",
+    "color": "Rosado pastel",
+    "ocasion": "Cumpleaños",
+    "contenido": "8 tulipanes, 6 ranúnculos y eucalipto"
+  },
+  {
+    "id": "ramo-de-girasoles-alegria",
+    "nombre": "Ramo de Girasoles Alegría",
+    "descripcion": "Doce girasoles frescos con follaje verde que llenan de luz cualquier espacio.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-de-girasoles-alegria.svg",
+    "etiquetas": [
+      "amarillo",
+      "cumpleanos",
+      "ramos"
+    ],
+    "destacado": false,
+    "precio": 28,
+    "tamano": "Mediano",
+    "color": "Amarillo",
+    "ocasion": "Cumpleaños",
+    "contenido": "12 girasoles"
+  },
+  {
+    "id": "ramo-de-lirios-blancos",
+    "nombre": "Ramo de Lirios Blancos",
+    "descripcion": "Diez varas de lirios blancos de gran perfume, con hojas de aspidistra.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-de-lirios-blancos.svg",
+    "etiquetas": [
+      "blanco",
+      "gratitud",
+      "ramos"
+    ],
+    "destacado": false,
+    "precio": 38,
+    "tamano": "Grande",
+    "color": "Blanco",
+    "ocasion": "Gratitud",
+    "contenido": "10 varas de lirio"
+  },
+  {
+    "id": "ramo-de-peonias-rosadas",
+    "nombre": "Ramo de Peonías Rosadas",
+    "descripcion": "Nueve peonías abiertas de temporada, envueltas en papel de arroz.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-de-peonias-rosadas.svg",
+    "etiquetas": [
+      "aniversario",
+      "ramos",
+      "rosado"
+    ],
+    "destacado": true,
+    "precio": 55,
+    "tamano": "Grande",
+    "color": "Rosado",
+    "ocasion": "Aniversario",
+    "contenido": "9 peonías"
+  },
+  {
+    "id": "ramo-mini-margaritas",
+    "nombre": "Ramo Mini Margaritas",
+    "descripcion": "Treinta margaritas pequeñas en un ramo redondo y sencillo.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-mini-margaritas.svg",
+    "etiquetas": [
+      "blanco",
+      "detalle",
+      "ramos"
+    ],
+    "destacado": false,
+    "precio": 18,
+    "tamano": "Pequeño",
+    "color": "Blanco",
+    "ocasion": "Detalle",
+    "contenido": "30 margaritas"
+  },
+  {
+    "id": "ramo-silvestre-de-lavanda",
+    "nombre": "Ramo Silvestre de Lavanda",
+    "descripcion": "Lavanda, gypsophila y espigas secas en un ramo de aire campestre.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-silvestre-de-lavanda.svg",
+    "etiquetas": [
+      "detalle",
+      "lila",
+      "ramos"
+    ],
+    "destacado": false,
+    "precio": 24,
+    "tamano": "Mediano",
+    "color": "Lila",
+    "ocasion": "Detalle",
+    "contenido": "Lavanda, gypsophila y espigas"
+  },
+  {
+    "id": "ramo-tropical-de-heliconias",
+    "nombre": "Ramo Tropical de Heliconias",
+    "descripcion": "Heliconias, ave del paraíso y hojas de palma en colores cálidos.",
+    "categoria": "ramos",
+    "imagen": "/img/ramo-tropical-de-heliconias.svg",
+    "etiquetas": [
+      "inauguracion",
+      "naranja",
+      "ramos"
+    ],
+    "destacado": false,
+    "precio": 48,
+    "tamano": "Grande",
+    "color": "Naranja",
+    "ocasion": "Inauguración",
+    "contenido": "6 heliconias y 3 aves del paraíso"
+  },
+  {
+    "id": "caja-sombrerera-de-rosas",
+    "nombre": "Caja Sombrerera de Rosas",
+    "descripcion": "Rosas rosadas en una caja redonda negra, con espuma floral hidratada.",
+    "categoria": "arreglos",
+    "imagen": "/img/caja-sombrerera-de-rosas.svg",
+    "etiquetas": [
+      "arreglos",
+      "rosado",
+      "san valentin"
+    ],
+    "destacado": true,
+    "precio": 52,
+    "tamano": "Mediano",
+    "color": "Rosado",
+    "ocasion": "San Valentín",
+    "contenido": "18 rosas en caja"
+  },
+  {
+    "id": "canasta-campestre",
+    "nombre": "Canasta Campestre",
+    "descripcion": "Canasta de mimbre con gerberas, claveles y follaje variado.",
+    "categoria": "arreglos",
+    "imagen": "/img/canasta-campestre.svg",
+    "etiquetas": [
+      "arreglos",
+      "cumpleanos",
+      "multicolor"
+    ],
+    "destacado": false,
+    "precio": 40,
+    "tamano": "Mediano",
+    "color": "Multicolor",
+    "ocasion": "Cumpleaños",
+    "contenido": "Gerberas, claveles y follaje"
+  },
+  {
+    "id": "jarron-de-hortensias-azules",
+    "nombre": "Jarrón de Hortensias Azules",
+    "descripcion": "Cuatro hortensias grandes en jarrón de vidrio con agua incluida.",
+    "categoria": "arreglos",
+    "imagen": "/img/jarron-de-hortensias-azules.svg",
+    "etiquetas": [
+      "agradecimiento",
+      "arreglos",
+      "azul"
+    ],
+    "destacado": false,
+    "precio": 46,
+    "tamano": "Mediano",
+    "color": "Azul",
+    "ocasion": "Agradecimiento",
+    "contenido": "4 hortensias"
+  },
+  {
+    "id": "centro-de-mesa-elegante",
+    "nombre": "Centro de Mesa Elegante",
+    "descripcion": "Arreglo bajo de rosas blancas y verdes para mesa de comedor o evento.",
+    "categoria": "arreglos",
+    "imagen": "/img/centro-de-mesa-elegante.svg",
+    "etiquetas": [
+      "arreglos",
+      "blanco",
+      "eventos"
+    ],
+    "destacado": false,
+    "precio": 60,
+    "tamano": "Grande",
+    "color": "Blanco",
+    "ocasion": "Eventos",
+    "contenido": "Rosas, lisianthus y eucalipto"
+  },
+  {
+    "id": "corona-floral-de-condolencias",
+    "nombre": "Corona Floral de Condolencias",
+    "descripcion": "Corona de crisantemos y claveles blancos sobre base de espuma, con cinta.",
+    "categoria": "arreglos",
+    "imagen": "/img/corona-floral-de-condolencias.svg",
+    "etiquetas": [
+      "arreglos",
+      "blanco",
+      "condolencias"
+    ],
+    "destacado": false,
+    "precio": 85,
+    "tamano": "Grande",
+    "color": "Blanco",
+    "ocasion": "Condolencias",
+    "contenido": "Crisantemos y claveles blancos"
+  },
+  {
+    "id": "cesta-tropical",
+    "nombre": "Cesta Tropical",
+    "descripcion": "Cesta con anturios, ave del paraíso y hojas tropicales.",
+    "categoria": "arreglos",
+    "imagen": "/img/cesta-tropical.svg",
+    "etiquetas": [
+      "arreglos",
+      "inauguracion",
+      "naranja"
+    ],
+    "destacado": false,
+    "precio": 58,
+    "tamano": "Grande",
+    "color": "Naranja",
+    "ocasion": "Inauguración",
+    "contenido": "Anturios, ave del paraíso y palma"
+  },
+  {
+    "id": "caja-de-tulipanes",
+    "nombre": "Caja de Tulipanes",
+    "descripcion": "Quince tulipanes rojos en caja de cartón rígido, listos para regalar.",
+    "categoria": "arreglos",
+    "imagen": "/img/caja-de-tulipanes.svg",
+    "etiquetas": [
+      "arreglos",
+      "dia de la madre",
+      "rojo"
+    ],
+    "destacado": false,
+    "precio": 36,
+    "tamano": "Pequeño",
+    "color": "Rojo",
+    "ocasion": "Día de la Madre",
+    "contenido": "15 tulipanes"
+  },
+  {
+    "id": "monstera-deliciosa",
+    "nombre": "Monstera Deliciosa",
+    "descripcion": "Planta de hojas grandes y perforadas en maceta de 20 cm.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/monstera-deliciosa.svg",
+    "etiquetas": [
+      "hogar",
+      "plantas de interior",
+      "verde"
+    ],
+    "destacado": true,
+    "precio": 35,
+    "tamano": "Mediano",
+    "color": "Verde",
+    "ocasion": "Hogar",
+    "contenido": "1 monstera en maceta de 20 cm"
+  },
+  {
+    "id": "suculentas-en-ceramica",
+    "nombre": "Suculentas en Cerámica",
+    "descripcion": "Tres suculentas variadas en maceta de cerámica blanca.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/suculentas-en-ceramica.svg",
+    "etiquetas": [
+      "detalle",
+      "plantas de interior",
+      "verde grisaceo"
+    ],
+    "destacado": false,
+    "precio": 14,
+    "tamano": "Pequeño",
+    "color": "Verde grisáceo",
+    "ocasion": "Detalle",
+    "contenido": "3 suculentas"
+  },
+  {
+    "id": "pothos-colgante",
+    "nombre": "Pothos Colgante",
+    "descripcion": "Planta colgante de crecimiento rápido, muy fácil de cuidar.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/pothos-colgante.svg",
+    "etiquetas": [
+      "hogar",
+      "plantas de interior",
+      "verde"
+    ],
+    "destacado": false,
+    "precio": 16,
+    "tamano": "Pequeño",
+    "color": "Verde",
+    "ocasion": "Hogar",
+    "contenido": "1 pothos en maceta colgante"
+  },
+  {
+    "id": "sansevieria",
+    "nombre": "Sansevieria",
+    "descripcion": "Planta resistente de hojas verticales, tolera poca luz y poco riego.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/sansevieria.svg",
+    "etiquetas": [
+      "oficina",
+      "plantas de interior",
+      "verde oscuro"
+    ],
+    "destacado": false,
+    "precio": 22,
+    "tamano": "Mediano",
+    "color": "Verde oscuro",
+    "ocasion": "Oficina",
+    "contenido": "1 sansevieria en maceta de 18 cm"
+  },
+  {
+    "id": "ficus-lyrata",
+    "nombre": "Ficus Lyrata",
+    "descripcion": "Árbol de interior con hojas anchas en forma de lira, de 80 cm de alto.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/ficus-lyrata.svg",
+    "etiquetas": [
+      "hogar",
+      "plantas de interior",
+      "verde"
+    ],
+    "destacado": false,
+    "precio": 65,
+    "tamano": "Grande",
+    "color": "Verde",
+    "ocasion": "Hogar",
+    "contenido": "1 ficus de 80 cm"
+  },
+  {
+    "id": "helecho-boston",
+    "nombre": "Helecho Boston",
+    "descripcion": "Helecho frondoso que purifica el aire y prefiere ambientes húmedos.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/helecho-boston.svg",
+    "etiquetas": [
+      "hogar",
+      "plantas de interior",
+      "verde claro"
+    ],
+    "destacado": false,
+    "precio": 20,
+    "tamano": "Mediano",
+    "color": "Verde claro",
+    "ocasion": "Hogar",
+    "contenido": "1 helecho en maceta de 18 cm"
+  },
+  {
+    "id": "set-de-mini-cactus",
+    "nombre": "Set de Mini Cactus",
+    "descripcion": "Tres cactus pequeños en macetas de barro con base de madera.",
+    "categoria": "plantas-de-interior",
+    "imagen": "/img/set-de-mini-cactus.svg",
+    "etiquetas": [
+      "detalle",
+      "plantas de interior",
+      "verde"
+    ],
+    "destacado": false,
+    "precio": 15,
+    "tamano": "Pequeño",
+    "color": "Verde",
+    "ocasion": "Detalle",
+    "contenido": "3 cactus en macetas de 7 cm"
+  },
+  {
+    "id": "orquidea-phalaenopsis-blanca",
+    "nombre": "Orquídea Phalaenopsis Blanca",
+    "descripcion": "Orquídea de dos varas con flores blancas, en maceta decorativa.",
+    "categoria": "orquideas",
+    "imagen": "/img/orquidea-phalaenopsis-blanca.svg",
+    "etiquetas": [
+      "blanco",
+      "hogar",
+      "orquideas"
+    ],
+    "destacado": true,
+    "precio": 38,
+    "tamano": "Mediano",
+    "color": "Blanco",
+    "ocasion": "Hogar",
+    "contenido": "1 planta, 2 varas florecidas"
+  },
+  {
+    "id": "orquidea-phalaenopsis-fucsia",
+    "nombre": "Orquídea Phalaenopsis Fucsia",
+    "descripcion": "Orquídea de flores fucsia intensas y floración de varios meses.",
+    "categoria": "orquideas",
+    "imagen": "/img/orquidea-phalaenopsis-fucsia.svg",
+    "etiquetas": [
+      "cumpleanos",
+      "fucsia",
+      "orquideas"
+    ],
+    "destacado": false,
+    "precio": 40,
+    "tamano": "Mediano",
+    "color": "Fucsia",
+    "ocasion": "Cumpleaños",
+    "contenido": "1 planta, 2 varas florecidas"
+  },
+  {
+    "id": "orquidea-cattleya-lila",
+    "nombre": "Orquídea Cattleya Lila",
+    "descripcion": "Cattleya de flores grandes y perfumadas, ideal para coleccionistas.",
+    "categoria": "orquideas",
+    "imagen": "/img/orquidea-cattleya-lila.svg",
+    "etiquetas": [
+      "aniversario",
+      "lila",
+      "orquideas"
+    ],
+    "destacado": false,
+    "precio": 55,
+    "tamano": "Mediano",
+    "color": "Lila",
+    "ocasion": "Aniversario",
+    "contenido": "1 planta con 3 flores abiertas"
+  },
+  {
+    "id": "orquidea-dendrobium-amarilla",
+    "nombre": "Orquídea Dendrobium Amarilla",
+    "descripcion": "Dendrobium con tallos cargados de flores amarillas pequeñas.",
+    "categoria": "orquideas",
+    "imagen": "/img/orquidea-dendrobium-amarilla.svg",
+    "etiquetas": [
+      "amarillo",
+      "hogar",
+      "orquideas"
+    ],
+    "destacado": false,
+    "precio": 34,
+    "tamano": "Mediano",
+    "color": "Amarillo",
+    "ocasion": "Hogar",
+    "contenido": "1 planta con varias varas"
+  },
+  {
+    "id": "orquidea-de-triple-vara",
+    "nombre": "Orquídea de Triple Vara",
+    "descripcion": "Phalaenopsis de tres varas en maceta de cerámica, un regalo de lujo.",
+    "categoria": "orquideas",
+    "imagen": "/img/orquidea-de-triple-vara.svg",
+    "etiquetas": [
+      "aniversario",
+      "orquideas",
+      "rosado"
+    ],
+    "destacado": false,
+    "precio": 62,
+    "tamano": "Grande",
+    "color": "Rosado",
+    "ocasion": "Aniversario",
+    "contenido": "1 planta, 3 varas florecidas"
+  },
+  {
+    "id": "bouquet-de-novia-clasico",
+    "nombre": "Bouquet de Novia Clásico",
+    "descripcion": "Bouquet en cascada de rosas blancas, peonías y eucalipto con cinta de seda.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/bouquet-de-novia-clasico.svg",
+    "etiquetas": [
+      "blanco",
+      "boda",
+      "bodas y eventos"
+    ],
+    "destacado": true,
+    "precio": 95,
+    "tamano": "Grande",
+    "color": "Blanco",
+    "ocasion": "Boda",
+    "contenido": "Rosas, peonías y eucalipto"
+  },
+  {
+    "id": "bouquet-de-dama-de-honor",
+    "nombre": "Bouquet de Dama de Honor",
+    "descripcion": "Bouquet pequeño de rosas rosadas y ranúnculos a juego con el de la novia.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/bouquet-de-dama-de-honor.svg",
+    "etiquetas": [
+      "boda",
+      "bodas y eventos",
+      "rosado"
+    ],
+    "destacado": false,
+    "precio": 45,
+    "tamano": "Mediano",
+    "color": "Rosado",
+    "ocasion": "Boda",
+    "contenido": "Rosas y ranúnculos"
+  },
+  {
+    "id": "botonier-para-novio",
+    "nombre": "Botonier para Novio",
+    "descripcion": "Botonier de rosa y hojas de olivo con alfiler incluido.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/botonier-para-novio.svg",
+    "etiquetas": [
+      "blanco",
+      "boda",
+      "bodas y eventos"
+    ],
+    "destacado": false,
+    "precio": 8,
+    "tamano": "Pequeño",
+    "color": "Blanco",
+    "ocasion": "Boda",
+    "contenido": "1 rosa con follaje"
+  },
+  {
+    "id": "corona-floral-para-el-cabello",
+    "nombre": "Corona Floral para el Cabello",
+    "descripcion": "Corona flexible de flores frescas y gypsophila para novias e invitadas.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/corona-floral-para-el-cabello.svg",
+    "etiquetas": [
+      "boda",
+      "bodas y eventos",
+      "multicolor"
+    ],
+    "destacado": false,
+    "precio": 25,
+    "tamano": "Mediano",
+    "color": "Multicolor",
+    "ocasion": "Boda",
+    "contenido": "Flores frescas variadas"
+  },
+  {
+    "id": "petalos-de-rosa-para-ceremonia",
+    "nombre": "Pétalos de Rosa para Ceremonia",
+    "descripcion": "Bolsa de pétalos frescos de rosa para pasillo o lanzamiento.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/petalos-de-rosa-para-ceremonia.svg",
+    "etiquetas": [
+      "boda",
+      "bodas y eventos",
+      "rojo y rosado"
+    ],
+    "destacado": false,
+    "precio": 20,
+    "tamano": "Mediano",
+    "color": "Rojo y rosado",
+    "ocasion": "Boda",
+    "contenido": "Aproximadamente 500 pétalos"
+  },
+  {
+    "id": "guirnalda-floral-por-metro",
+    "nombre": "Guirnalda Floral por Metro",
+    "descripcion": "Guirnalda de follaje y flores para decorar mesas, arcos y escaleras.",
+    "categoria": "bodas-y-eventos",
+    "imagen": "/img/guirnalda-floral-por-metro.svg",
+    "etiquetas": [
+      "bodas y eventos",
+      "eventos",
+      "verde y blanco"
+    ],
+    "destacado": false,
+    "precio": 30,
+    "tamano": "Grande",
+    "color": "Verde y blanco",
+    "ocasion": "Eventos",
+    "contenido": "1 metro de guirnalda"
+  },
+  {
+    "id": "jarron-de-vidrio-clasico",
+    "nombre": "Jarrón de Vidrio Clásico",
+    "descripcion": "Jarrón transparente de 25 cm, apto para ramos de hasta 25 tallos.",
+    "categoria": "accesorios",
+    "imagen": "/img/jarron-de-vidrio-clasico.svg",
+    "etiquetas": [
+      "accesorios",
+      "hogar",
+      "transparente"
+    ],
+    "destacado": false,
+    "precio": 18,
+    "tamano": "Mediano",
+    "color": "Transparente",
+    "ocasion": "Hogar",
+    "contenido": "1 jarrón de 25 cm"
+  },
+  {
+    "id": "nutriente-para-flores-cortadas",
+    "nombre": "Nutriente para Flores Cortadas",
+    "descripcion": "Sobres de nutriente que alargan la vida de las flores en el jarrón.",
+    "categoria": "accesorios",
+    "imagen": "/img/nutriente-para-flores-cortadas.svg",
+    "etiquetas": [
+      "accesorios",
+      "hogar",
+      "verde"
+    ],
+    "destacado": false,
+    "precio": 9,
+    "tamano": "Pequeño",
+    "color": "Verde",
+    "ocasion": "Hogar",
+    "contenido": "10 sobres"
+  },
+  {
+    "id": "tijeras-de-podar-profesionales",
+    "nombre": "Tijeras de Podar Profesionales",
+    "descripcion": "Tijeras de acero inoxidable con mango antideslizante para cortes limpios.",
+    "categoria": "accesorios",
+    "imagen": "/img/tijeras-de-podar-profesionales.svg",
+    "etiquetas": [
+      "accesorios",
+      "hogar",
+      "plateado"
+    ],
+    "destacado": false,
+    "precio": 15,
+    "tamano": "Pequeño",
+    "color": "Plateado",
+    "ocasion": "Hogar",
+    "contenido": "1 tijera de 20 cm"
+  },
+  {
+    "id": "espuma-floral-oasis",
+    "nombre": "Espuma Floral Oasis",
+    "descripcion": "Dos bloques de espuma floral para sostener arreglos hidratados.",
+    "categoria": "accesorios",
+    "imagen": "/img/espuma-floral-oasis.svg",
+    "etiquetas": [
+      "accesorios",
+      "eventos",
+      "verde"
+    ],
+    "destacado": false,
+    "precio": 7,
+    "tamano": "Pequeño",
+    "color": "Verde",
+    "ocasion": "Eventos",
+    "contenido": "2 bloques"
+  },
+  {
+    "id": "set-de-tarjetas-y-listones",
+    "nombre": "Set de Tarjetas y Listones",
+    "descripcion": "Diez tarjetas de dedicatoria y dos rollos de listón de satén.",
+    "categoria": "accesorios",
+    "imagen": "/img/set-de-tarjetas-y-listones.svg",
+    "etiquetas": [
+      "accesorios",
+      "detalle",
+      "multicolor"
+    ],
+    "destacado": false,
+    "precio": 6,
+    "tamano": "Pequeño",
+    "color": "Multicolor",
+    "ocasion": "Detalle",
+    "contenido": "10 tarjetas y 2 listones"
+  }
+]

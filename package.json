@@ -1,0 +1,21 @@
+{
+  "name": "floreria-aurora",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Proyecto 2 - EIF-511 Arquitectura de Información: tienda de flores en Nuxt con Snipcart y Utterances",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "catalogo": "python3 scripts/generar_catalogo.py"
+  },
+  "dependencies": {
+    "nuxt": "^3.15.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.5.0"
+  },
+  "engines": { "node": ">=18.20" }
+}

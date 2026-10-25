@@ -1,0 +1,12 @@
+[build]
+  command = "npm run generate"
+  publish = ".output/public"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Si alguien entra directo a una URL inexistente, mostrar la página 404 generada
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
